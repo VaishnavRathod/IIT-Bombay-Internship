@@ -2,7 +2,8 @@
 
 IITB pre-interview Exercise-1: Python, Graph Drawing
 
-Dataset attached to the Github repository.
+Dataset Link: https://drive.google.com/drive/folders/1wQTkDHxNMsUqC0-vuQPTIu2N2eDX3E7y
+
 Images link of the graphs are provided in the notebook itself.
 
 1. age_wise_excess-deaths.ipynb
@@ -22,6 +23,6 @@ The above code will give you the graph of the Images in it's respective notebook
 END.
 
 
-DEMO VIDEO:
+DEMO VIDEO: https://drive.google.com/drive/folders/1wQTkDHxNMsUqC0-vuQPTIu2N2eDX3E7y
 
 MADE BY: VAISHNAV RATHOD
